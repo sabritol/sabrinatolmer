@@ -7,7 +7,7 @@ import { Wrapper, SkillsWrapper, SkillsColumn } from './styles'
 
 export const Skills = () => (
 	<Wrapper id="skills">
-		<h2>I am here!</h2>
+		<h2>I can help you with</h2>
 		<SkillsWrapper as={Container}>
 			<SkillsColumn>
 			
