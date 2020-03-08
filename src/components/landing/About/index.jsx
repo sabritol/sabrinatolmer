@@ -1,14 +1,14 @@
 import React from 'react'
 // import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { Container } from 'Common'
-import Truelove from 'Static/illustrations/truelove.svg'
+import Intro from 'Static/illustrations/intro.svg'
 import { Wrapper, SkillsWrapper, Details, Thumbnail } from './styles'
 
 export const About = () => (
 	<Wrapper id="about">
 		<SkillsWrapper as={Container}>
 			<Thumbnail>
-				<img src={Truelove} alt="Digital Nomad" />
+				<img src={Intro} alt="engineering" />
 			</Thumbnail>
 			<Details>
 				<h2>Engineering beyond the box  </h2>

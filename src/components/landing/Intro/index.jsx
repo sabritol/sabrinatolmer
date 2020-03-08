@@ -1,32 +1,27 @@
 import React from 'react'
-import Particles from "react-particles-js"
+// import Particles from "react-particles-js"
 // import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { Header } from 'Theme'
 import { Container, SocialLinks, } from 'Common'
-// import Pin from 'Static/icons/pin.svg'
-import { Wrapper, IntroWrapper, Details,} from './styles'
+import Truelove from 'Static/illustrations/truelove.svg'
+import { Wrapper, IntroWrapper, Details, Thumbnail} from './styles'
 // import particlesOptions from "../../particlesjs.config.json"
 
 export const Intro = () => (
 	<>
-		<Particles
-			style={{
-				position: 'absolute',
-				top: 0,
-				bottom: 0,
-				left: 0,
-				right: 0,
-				zIndex: -1,
-			}}
-			// params={
-			// particlesOptions}
-		/>
+
 	<Wrapper>
 		<Header />
 		<IntroWrapper as={Container}>
+			<Thumbnail>
+				<img src={Truelove} alt="Presentation" />
+			</Thumbnail>
+			
 			<Details>
-				<h1>Hello, I'm<br /> <span style={{ fontWeight: 300, fontSize: '88%' }}>&</span> <br />Full-stack Developer</h1>
-				<h4>I craft human-centered software solutions</h4>
+				<h1>I'm Sabrina<br /> <span style={{ fontWeight: 300, fontSize: '88%' }}>async  {"{"}</span> <br /> Creative Technologis & Full-stack Developer</h1>
+				
+		        
+				<h4>I'm here for software solutions with innovation and creativity</h4>
 				<SocialLinks />
 				{/* <p><span>I'm available for hire </span>
 					<Button as={AnchorLink} href="#contact">
