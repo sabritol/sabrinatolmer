@@ -65,7 +65,7 @@
     {
         "id": 3,
         "title": "Body Meting Yoga",
-        "shortDescription": "A dinamic Yoga blog site with CMS.",
+        "shortDescription": " Dinamic Yoga blog site with CMS. Coming soon",
         "longDescription": [
             "The organization needed a flexible and lightweight platform to explain who they are and what they do.",
             "The website was developed as a Progressive Web App in order to accommodate for future features like a blog, social media feed, and interactive storytelling.",
@@ -74,7 +74,7 @@
         "url": "",
         "relevantLinks": [],
         "repoUrl": "",
-        "image": "projects/bodymetingyoga2.jpg",
+        "image": "projects/bodymetingyoga.jpg",
         "madeWidth": [
             "Gatsby",
             "Netlifycms",
@@ -82,7 +82,7 @@
             "NodeJS"
         ],
         "type": "Blog Site",
-        "year": 2018
+        "year": 2020
     },
     {
         "id": 6,
