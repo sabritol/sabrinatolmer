@@ -1,15 +1,15 @@
 module.exports = {
-	defaultTitle: 'Ramiro Ramirez - Creative Technologist & Software Developer',
-	logo: 'https://ramiroramirez.xyz/favicon/android-chrome-512x512.png',
-	author: 'Ramiro Ramirez',
-	url: 'https://ramiroramirez.xyz',
-	legalName: 'Ramiro Ramirez',
-	defaultDescription: 'Hi, I’m Ramiro. Let’s talk about humans and software.',
+	defaultTitle: 'Sabrina Tolmer - Creative Technologist & Software Developer',
+	logo: 'https://sabrinatolmer.xyz/favicon/favicon.ico',
+	author: 'Sabrina ',
+	url: 'https://sabrinatolmer.xyz',
+	legalName: 'Sabrina Tolmer',
+	defaultDescription: 'Hi, I’m Sabrina. I am always ready to talk about software and human experience.',
 	socialLinks: {
-		twitter: 'http://www.twitter.com/eco_virtual',
-		github: 'https://github.com/ecovirtual',
-		linkedin: 'https://www.linkedin.com/in/ramirezramiro/',
-		instagram: 'https://instagram.com/ecovirtual'
+		twitter: 'https://twitter.com/iamwayra',
+		github: 'https://github.com/sabritol',
+		linkedin: 'https://www.linkedin.com/in/sabrina-tolmer-819426126/',
+		instagram: 'https://www.instagram.com/iamwayra/'
 	},
 	googleAnalyticsID: 'UA-144485551-1',
 	themeColor: '#9919C9',
@@ -25,7 +25,7 @@ module.exports = {
 		zipCode: '1021JE',
 	},
 	contact: {
-		email: 'hello@ramiroramirez.xyz',
+		email: 'sabrinatolmer@gmail.com',
 		phone: 'xxxxxxxx',
 	},
 	foundingDate: '2012',

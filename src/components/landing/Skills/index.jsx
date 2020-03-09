@@ -7,7 +7,7 @@ import { Wrapper, SkillsWrapper, SkillsColumn } from './styles'
 
 export const Skills = () => (
 	<Wrapper id="skills">
-		<h2>I can help you with</h2>
+		<h2>I can help you with...</h2>
 		<SkillsWrapper as={Container}>
 			<SkillsColumn>
 			    <img src={Skills2} alt="Coding" style={{ height: '120px' }} />
@@ -32,10 +32,10 @@ export const Skills = () => (
 				<p>I can work with you and your team on:</p>
 				<hr />
 				<ul>
-					<li>Adopting best practices for agile development</li>
-					<li>Transitioning into a data-driven culture</li>
-					<li>Designing Big Data pipelines</li>
-					<li>Assessing technical feasibility & scalability</li>
+					<li>Building culture and dynamics that allow innovation to emerge naturally in every project.</li>
+					<li>Transitioning into a data-driven design</li>
+					<li>AI and Big Data pipelines</li>
+					<li>Assessing technical feasibility, innovation  & scalability</li>
 				</ul>
 				<Button className="cta" as={AnchorLink} href="#contact">
 					Get in touch
