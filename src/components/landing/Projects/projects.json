@@ -22,6 +22,29 @@
     },
     {
         "id": 1,
+        "title": "Body Meting Yoga",
+        "shortDescription": " Dinamic Yoga blog site with CMS. Coming soon!",
+        "longDescription": [
+            "The organization needed a flexible and lightweight platform to explain who they are and what they do.",
+            "The website was developed as a Progressive Web App in order to accommodate for future features like a blog, social media feed, and interactive storytelling.",
+            "Frebase was used as a host due to the easy of implementation and low costs for small userbase apps."
+        ],
+        "url": "",
+        "relevantLinks": [],
+        "repoUrl": "",
+        "image": "projects/bodymetingyoga.jpg",
+        "madeWidth": [
+            "Gatsby",
+            "Netlifycms",
+            "React",
+            "NodeJS"
+        ],
+        "type": "Blog Site",
+        "year": 2020
+    },
+
+    {
+        "id": 2,
         "title": "Jellyfish Generator",
         "shortDescription": "Computer game & interactive installation.",
         "longDescription": [
@@ -41,8 +64,31 @@
         "type": "GameApp",
         "year": 2019
     },
+   
     {
-        "id": 2,
+        "id": 3,
+        "title": "Transfer Style",
+        "shortDescription": "A neuronal network for style transfer.",
+        "longDescription": [
+            "Neural style transfer is an optimization technique used to take three images, a content image, a style reference image (such as an artwork by a famous painter),",
+            "and the input image you want to style — and blend them together such that the input image is transformed to look like the content image, but “painted” in the style of the style image."
+        ],
+        "url": "",
+        "relevantLinks": [],
+        "repoUrl": "https://github.com/sabritol/Neuronal-Transfer-Style-",
+        "image": "projects/neuronal.jpg",
+        "madeWidth": [
+            "TensorFlow",
+            "Python",
+            "CV2",
+            "Open Source"
+            
+        ],
+        "type": "AI Model",
+        "year": 2019
+    },
+    {
+        "id": 4,
         "title": "Human Beyond Labs",
         "shortDescription": "Creative studio that focuses on interactive storytelling through immersive installations using AI.",
         "longDescription": [
@@ -63,27 +109,32 @@
         "year": 2018
     },
     {
-        "id": 3,
-        "title": "Body Meting Yoga",
-        "shortDescription": " Dinamic Yoga blog site with CMS. Coming soon",
+        "id": 5,
+        "title": "Singularity Horizon",
+        "shortDescription": "An interactive contemporary dance piece in seven acts.",
         "longDescription": [
-            "The organization needed a flexible and lightweight platform to explain who they are and what they do.",
-            "The website was developed as a Progressive Web App in order to accommodate for future features like a blog, social media feed, and interactive storytelling.",
-            "Frebase was used as a host due to the easy of implementation and low costs for small userbase apps."
+            "The first full piece by OpenLab, a diverse collective of artists coalescing in a stage composition that involves narrative, dancing and original music played on-location by an orchestra, all enhanced with interactive visual and sound elements. ",
+            " Again, we resorted to Resolume Arena (to run the visual loops and synchronize the mapping on location), Unity3D (as our engine for design), and Processing (for data moshing in some specific clips), as well as Adobe After Effects to design the individual graphic pieces.",
+            " The result was a 40-minute long interactive dance play with live orchestral music and whole olfactory experience that would go along with the narrative. I was the general producer, choreographer and developer."
+            
+            
         ],
-        "url": "",
-        "relevantLinks": [],
-        "repoUrl": "",
-        "image": "projects/bodymetingyoga.jpg",
+        "url": "https://www.instagram.com/opentodo/",
+        "relevantLinks": [
+            "https://www.facebook.com/opentodo/videos/193581361214943/"
+        ],
+        "repoUrl": "https://github.com/sabritol/kinectvision",
+        "image": "projects/singularity_horizon.jpg",
         "madeWidth": [
-            "Gatsby",
-            "Netlifycms",
-            "React",
-            "NodeJS"
+            "Processing",
+            "Unity3d",
+            "Resolume",
+            "Kinect v2"
         ],
-        "type": "Blog Site",
-        "year": 2020
+        "type": "Interactive Installation",
+        "year": 2017
     },
+       
     {
         "id": 6,
         "title": "Instant of Singularity",
@@ -108,31 +159,6 @@
         ],
         "type": "Interactive Installation",
         "year": 2017
-    },
-    {
-        "id": 7,
-        "title": "Singularity Horizon",
-        "shortDescription": "An interactive contemporary dance piece in seven acts.",
-        "longDescription": [
-            "The first full piece by OpenLab, a diverse collective of artists coalescing in a stage composition that involves narrative, dancing and original music played on-location by an orchestra, all enhanced with interactive visual and sound elements. ",
-            " Again, we resorted to Resolume Arena (to run the visual loops and synchronize the mapping on location), Unity3D (as our engine for design), and Processing (for data moshing in some specific clips), as well as Adobe After Effects to design the individual graphic pieces.",
-            " The result was a 40-minute long interactive dance play with live orchestral music and whole olfactory experience that would go along with the narrative. I was the general producer, choreographer and developer."
-            
-            
-        ],
-        "url": "https://www.instagram.com/opentodo/",
-        "relevantLinks": [
-            "https://www.facebook.com/opentodo/videos/193581361214943/"
-        ],
-        "repoUrl": "https://github.com/sabritol/kinectvision",
-        "image": "projects/singularity_horizon.jpg",
-        "madeWidth": [
-            "Processing",
-            "Unity3d",
-            "Resolume",
-            "Kinect v2"
-        ],
-        "type": "Interactive Installation",
-        "year": 2017
     }
+    
 ]
