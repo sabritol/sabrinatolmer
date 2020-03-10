@@ -18,7 +18,7 @@ export const About = () => (
 				As a result, I have developed a solid knowledge of software engineering oriented to computer vision and interactive technologies{' '}
 				</p>
 				<p>
-				I am passionate about UX/UI, animated interfaces, game Applications and augmented platforms.
+				I am passionate about UX/UI, animated interfaces, game applications and augmented platforms.
 				</p>
 				<p>
 				I'm also an AI / Deep Learning, enthusiastic researcher. Adversarial Learning for video, tex and image generation with models 
