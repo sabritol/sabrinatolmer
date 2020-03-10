@@ -21,7 +21,7 @@ export const Intro = () => (
 				<h1>Hello, I'm Sabrina <br /> <span style={{ fontWeight: 300, fontSize: '88%' }}> </span> <br /> Creative Technologist & Full Stack Developer </h1>
 				
 		        
-				<h4>I'm here for software solutions with innovation and creativity</h4>
+				<h4>I specialize in coming up with creative and innovative software solutions</h4>
 				<SocialLinks />
 				{/* <p><span>I'm available for hire </span>
 					<Button as={AnchorLink} href="#contact">

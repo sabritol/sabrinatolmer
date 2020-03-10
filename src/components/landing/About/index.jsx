@@ -21,7 +21,7 @@ export const About = () => (
 				I am passionate about UX/UI, animated interfaces, game applications and augmented platforms.
 				</p>
 				<p>
-				I'm also an AI / Deep Learning, enthusiastic researcher. Adversarial Learning for video, tex and image generation with models 
+				I'm also an AI / Deep Learning, enthusiastic researcher. Adversarial Learning for video, text and image generation with models 
 				like Big GAN, pix2pix, vid2vid, GPT-2 and tensorflow.js lib. are my current lab.
 				</p>
 				<p />
