@@ -33,7 +33,6 @@ export const Skills = () => (
 				<hr />
 				<ul>
 					<li>Building dynamics that allow innovation to emerge naturally in every project.</li>
-					<li>Team culture</li>
 					<li>Transitioning into a data-driven design</li>
 					<li>AI and Big Data pipelines</li>
 					<li>Assessing technical feasibility, innovation  & scalability</li>
