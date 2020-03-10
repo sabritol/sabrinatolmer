@@ -18,7 +18,7 @@ export const Intro = () => (
 			</Thumbnail>
 			
 			<Details>
-				<h1>Hello I'm Sabrina <br /> <span style={{ fontWeight: 300, fontSize: '88%' }}> </span> <br /> Creative Technologist & Full Stack Developer </h1>
+				<h1>Hello, I'm Sabrina <br /> <span style={{ fontWeight: 300, fontSize: '88%' }}> </span> <br /> Creative Technologist & Full Stack Developer </h1>
 				
 		        
 				<h4>I'm here for software solutions with innovation and creativity</h4>
@@ -32,7 +32,7 @@ export const Intro = () => (
 		</IntroWrapper>
 	</Wrapper>
 
-	
+
 	</>
 )
 			
