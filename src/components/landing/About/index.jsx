@@ -13,7 +13,7 @@ export const About = () => (
 			<Details>
 				<h2>Engineering beyond the box  </h2>
 				<p>
-				I do have extensive experience in the creative industry, 
+				I have extensive experience in the creative industry, 
 				having devoted most of my career to dance and digital art. 
 				As a result, I have developed a solid knowledge of software engineering oriented to computer vision and interactive technologies{' '}
 				</p>
