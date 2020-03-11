@@ -18,7 +18,7 @@ export const Intro = () => (
 			</Thumbnail>
 			
 			<Details>
-				<h1>Hello, I'm Sabrina <br /> <span style={{ fontWeight: 300, fontSize: '88%' }}> </span> <br /> Full Stack Developer </h1>
+				<h1>Hello, I'm Sabrina <br /> <span style={{ fontWeight: 300, fontSize: '88%' }}> </span> <br /> Artist & Full Stack Developer </h1>
 				
 		        
 				<h4>I specialize in coming up with creative and innovative software solutions</h4>
