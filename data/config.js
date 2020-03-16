@@ -1,10 +1,10 @@
 module.exports = {
-	defaultTitle: 'Sabrina Tolmer - Creative Technologist & Software Developer',
+	defaultTitle: 'Sabrina Tolmer - Artist & Software Developer',
 	logo: 'https://sabrinatolmer.xyz/favicon/favicon.ico',
 	author: 'Sabrina ',
 	url: 'https://sabrinatolmer.xyz',
 	legalName: 'Sabrina Tolmer',
-	defaultDescription: 'Hi, I’m Sabrina. I am always ready to talk about software and human experience.',
+	defaultDescription: 'Hi, I’m Sabrina. Let’s create something amazing together ',
 	socialLinks: {
 		twitter: 'https://twitter.com/iamwayra',
 		github: 'https://github.com/sabritol',
@@ -15,8 +15,8 @@ module.exports = {
 	themeColor: '#9919C9',
 	backgroundColor: '#9919C9',
 	social: {
-		facebook: '642851369553020',
-		twitter: '@eco_virtual',
+		facebook: 'Sabrina.tolmer',
+		twitter: '@iamwayra',
 	},
 	address: {
 		city: 'Amsterdam',
@@ -28,6 +28,6 @@ module.exports = {
 		email: 'sabrinatolmer@gmail.com',
 		phone: 'xxxxxxxx',
 	},
-	foundingDate: '2012',
+	foundingDate: '2020',
 	recaptcha_key: '6LddsOAUAAAAAHDFUjWhxxMNoh15TGWttV50JUuA'
 }

@@ -1,27 +1,6 @@
 [
     {
         "id": 0,
-        "title": "Badem Atelier",
-        "shortDescription": "An eComerce web site migration",
-        "longDescription": [
-            "The goal is to update the stack technologie for more scalable and intuitive UX/UI.",
-            "The main idea is be able to sell a wide variety of product with minimal effort at the time of adding new designs and generating new products."
-        ],
-        "url": "https://atelierbadem.com/",
-        "relevantLinks": [],
-        "repoUrl": "",
-        "image": "projects/badem.jpg",
-        "madeWidth": [
-            "Gatsby",
-            "eComerce",
-            "NodeJS",
-            "Mollie"
-        ],
-        "type": "eComerce",
-        "year": 2020
-    },
-    {
-        "id": 1,
         "title": "Body Meeting Yoga",
         "shortDescription": " Dinamic Yoga blog site with CMS. Coming soon!",
         "longDescription": [
@@ -44,7 +23,7 @@
     },
 
     {
-        "id": 2,
+        "id": 1,
         "title": "Jellyfish Generator",
         "shortDescription": "Computer game & interactive installation.",
         "longDescription": [
@@ -66,7 +45,7 @@
     },
    
     {
-        "id": 3,
+        "id": 2,
         "title": "Transfer Style",
         "shortDescription": "A neuronal network for style transfer.",
         "longDescription": [
@@ -88,7 +67,7 @@
         "year": 2019
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Human Beyond Labs",
         "shortDescription": "Creative studio that focuses on interactive storytelling through immersive installations using AI.",
         "longDescription": [
@@ -109,7 +88,7 @@
         "year": 2018
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Singularity Horizon",
         "shortDescription": "An interactive contemporary dance piece in seven acts.",
         "longDescription": [
@@ -136,7 +115,7 @@
     },
        
     {
-        "id": 6,
+        "id": 5,
         "title": "Instant of Singularity",
         "shortDescription": "A short piece of interactive contemporary art.",
         "longDescription": [
