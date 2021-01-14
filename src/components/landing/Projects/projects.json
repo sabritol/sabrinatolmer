@@ -4,11 +4,11 @@
         "title": "Body Meeting Yoga",
         "shortDescription": " Dinamic Yoga blog site with CMS. Coming soon!",
         "longDescription": [
-            "The organization needed a flexible and lightweight platform to explain who they are and what they do.",
-            "The website was developed as a Progressive Web App in order to accommodate for future features like a blog, social media feed, and interactive storytelling.",
-            "Frebase was used as a host due to the easy of implementation and low costs for small userbase apps."
+            "Landing page, whit dinamic content actualization.",
+            "I had use netifly for hosting and netlify CMS for cliente side management content. ",
+            "JAM stack for a 100% scalale site"
         ],
-        "url": "",
+        "url": "https://bodymeeting.yoga/",
         "relevantLinks": [],
         "repoUrl": "",
         "image": "projects/bodymetingyoga.jpg",

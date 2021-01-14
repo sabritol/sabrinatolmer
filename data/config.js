@@ -1,6 +1,6 @@
 module.exports = {
 	defaultTitle: 'Sabrina Tolmer - Artist & Software Developer',
-	logo: 'https://sabrinatolmer.xyz/favicon/favicon.ico',
+	logo: 'https://sabrinatolmer.xyz/favicon/favicon.png',
 	author: 'Sabrina ',
 	url: 'https://sabrinatolmer.xyz',
 	legalName: 'Sabrina Tolmer',
