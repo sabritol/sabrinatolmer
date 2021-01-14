@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Button = styled.button`
 	cursor: pointer;
-	border-radius: 6px;
+	border-radius: 3px;
 	font-weight: 400;
 	ghost-button {
 		display: inline-block;
