@@ -1,7 +1,7 @@
 import React from 'react'
 // import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { Container } from 'Common'
-import Intro from 'Static/illustrations/intro.svg'
+import Intro from 'Static/illustrations/intro.jpg'
 import { Wrapper, SkillsWrapper, Details, Thumbnail } from './styles'
 
 export const About = () => (
