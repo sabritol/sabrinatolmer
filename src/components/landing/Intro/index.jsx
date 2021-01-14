@@ -3,7 +3,7 @@ import React from 'react'
 // import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { Header } from 'Theme'
 import { Container, SocialLinks, } from 'Common'
-import Truelove from 'Static/illustrations/truelove.svg'
+import Truelove from 'Static/illustrations/truelove.jpg'
 import { Wrapper, IntroWrapper, Details, Thumbnail} from './styles'
 // import particlesOptions from "../../particlesjs.config.json"
 

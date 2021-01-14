@@ -9,7 +9,7 @@ export const Button = styled.button`
 		width: 200px;
 		padding: 8px;
 		color: #fff;
-		border: 1px solid #ff6584;
+		border: 1px solid #EB472C;
 		text-align: center;
 		outline: none;
 		text-decoration: none;
@@ -33,7 +33,7 @@ export const Button = styled.button`
 	-ms-user-select: none;
 	user-select: none;
 	color: white;
-	background: #ff6584;
+	background: #EB472C;
 	&:focus {
 		outline: none;
 	}
