@@ -1,12 +1,40 @@
 [
     {
         "id": 0,
-        "title": "Body Meeting Yoga",
-        "shortDescription": " Dinamic Yoga blog site with CMS. Coming soon!",
+        "title": "Food Fiction",
+        "shortDescription": "Dynamic blog and e-commerce site with CMS host in Netlify made whit Gatsby",
         "longDescription": [
-            "Landing page, whit dinamic content actualization.",
+            "Blog and e-comerce platform, whit dinamic content sourcing.",
             "I had use netifly for hosting and netlify CMS for cliente side management content. ",
-            "JAM stack for a 100% scalale site"
+            "JAM stack for a 100% scalabile site",
+            "The site has SEO optimisation included which allows editors to manage meta tags",
+            "and meta description in an organic and controlled way. "
+        ],
+        "url": "http://foodfiction.xyz/",
+        "relevantLinks": [],
+        "repoUrl": "",
+        "image": "projects/foodfix.jpg",
+        "madeWidth": [
+            "Gatsby",
+            "Sass",
+            "Netlifycms",
+            "React",
+            "NodeJS",
+            "AWS"
+        ],
+        "type": "Blog Site",
+        "year": 2021
+    },
+
+
+    {
+        "id": 1,
+        "title": "Body Meeting Yoga",
+        "shortDescription": "Dinamic landing page with CMS made whit Gatsby",
+        "longDescription": [
+            "Landing page, whit dinamic content sourcing.",
+            "I had use netifly for hosting and netlify CMS for cliente side management content. ",
+            "JAM stack for a 100% scalabile site"
         ],
         "url": "https://bodymeeting.yoga/",
         "relevantLinks": [],
@@ -14,16 +42,17 @@
         "image": "projects/bodymetingyoga.jpg",
         "madeWidth": [
             "Gatsby",
+            "Sass",
             "Netlifycms",
             "React",
             "NodeJS"
         ],
-        "type": "Blog Site",
+        "type": "Dinamic Landing page",
         "year": 2020
     },
 
     {
-        "id": 1,
+        "id": 2,
         "title": "Jellyfish Generator",
         "shortDescription": "Computer game & interactive installation.",
         "longDescription": [
@@ -45,7 +74,7 @@
     },
    
     {
-        "id": 2,
+        "id": 3,
         "title": "Transfer Style",
         "shortDescription": "A neuronal network for style transfer.",
         "longDescription": [
@@ -67,7 +96,7 @@
         "year": 2019
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Human Beyond Labs",
         "shortDescription": "Creative studio that focuses on interactive storytelling through immersive installations using AI.",
         "longDescription": [
@@ -88,7 +117,7 @@
         "year": 2018
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Singularity Horizon",
         "shortDescription": "An interactive contemporary dance piece in seven acts.",
         "longDescription": [
@@ -115,7 +144,7 @@
     },
        
     {
-        "id": 5,
+        "id": 6,
         "title": "Instant of Singularity",
         "shortDescription": "A short piece of interactive contemporary art.",
         "longDescription": [
